@@ -1,5 +1,5 @@
 import { combineReducers } from 'redux';
 
-export defaul combineReducers({
+export default combineReducers({
   libraries: () => []
 });
